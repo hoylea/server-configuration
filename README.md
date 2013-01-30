@@ -6,7 +6,7 @@ developed for a rackspace cloud server running Ubuntu 12.4, but they should
 work in general for any Debian/Ubuntu version with any host.
 
 For the initial setup (e.g. new client) go through the instruction in 
-[Initial-Setup.md](https://github.com/Brunello/server-configuration/blob/master/Initial-Setup.md) first then install LAMP and other miscilaneous packages by
+[Initial-Setup.md](https://github.com/Brunello/server-configuration/blob/master/Initial-Setup.md) first then install LAMP and other miscellaneous packages by
 following the instructions in [Install-LAMP.md](https://github.com/Brunello/server-configuration/blob/master/Install-LAMP.md).
 
 For each site that will be hosted on the server, use the instructions in 
